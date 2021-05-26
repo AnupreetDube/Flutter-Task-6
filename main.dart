@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:myanimation_app/myanim.dart';
+import 'package:beautifulanim/animation.dart';
 void main() {
   runApp(
     MaterialApp(
